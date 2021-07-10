@@ -11,5 +11,5 @@ input.onButtonPressed(Button.B, function () {
     music.playMelody("A C5 C5 A F A G - ", 120)
 })
 basic.forever(function () {
-    basic.showString("Hello!")
+	
 })
